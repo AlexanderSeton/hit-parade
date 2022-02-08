@@ -1,5 +1,7 @@
 body {
   font-family: 'Nunito', sans-serif;
+  background: black;
+  color: white;
 }
 
 h1 {
@@ -15,12 +17,14 @@ h2 {
 
 h3 {
   margin: 5px;
-  color: #333;
+  /* color: #333; */
+  color: white;
 }
 
 h4 {
   margin: 5px;
-  color: grey;
+  /* color: grey; */
+  color: white;
 }
 
 select {
